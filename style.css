@@ -51,18 +51,14 @@ section {
     color: crimson;
 }
 
-.title-area .title{
-    position: left;
-    text-align: left;
+.title{
+    
+    text-align: right;
 }
 
 /* Intro area  */
 
-.intro-area {
-    background-image: url(images/header-bg.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
 
 .intro,
 .biography {
@@ -72,19 +68,12 @@ section {
 
 /* Biography */
 
-.biography-area {
-    background-image: url(images/biography-bg.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 
 /* Experience */
 
 .experience-area {
-    background-image: url(images/experience-bg.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+  
     padding-bottom: 50px;
 }
 
